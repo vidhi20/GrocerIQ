@@ -143,16 +143,16 @@ tab1,tab2,tab3,tab4,tab5 = st.tabs([
 with tab1:
     c1,c2,c3,c4,c5 = st.columns(5)
     kpis = [
-        (len(filtered),               "#0071CE", "Total Customers"),
-        (f"${filtered.monetary.mean():,.0f}", "#0071CE", "Avg Spend"),
-        ((filtered.segment=="Champion").sum(), "#1D9E75", "Champions"),
-        ((filtered.segment=="At-Risk").sum(),  "#E24B4A", "At-Risk"),
-        (f"{filtered.frequency.mean():.1f}",   "#0071CE", "Avg Orders"),
+        (f"{len(filtered):,}",                 "#0071CE", "Total Customers"),
+        (f"${avg_spend:,.0f}",                 "#0071CE", "Avg Total Spend"),
+        (f"{(filtered.segment=='Champion').sum():,}", "#1D9E75", "Champions"),
+        (f"{(filtered.segment=='At-Risk').sum():,}",  "#E24B4A", "At-Risk"),
+        (f"{avg_frequency:.1f}",               "#0071CE", "Avg Orders"),
     ]
     for col, (val, color, label) in zip([c1,c2,c3,c4,c5], kpis):
         with col:
             st.markdown(f"""<div class="kpi-card">
-                <p class="kpi-value" style="color:{color}">{val:,}</p>
+                <p class="kpi-value" style="color:{color}">{val}</p>
                 <p class="kpi-label">{label}</p></div>""",
                 unsafe_allow_html=True)
 

@@ -1,0 +1,154 @@
+product_1,product_2,support,confidence,lift
+Great Value Canola Oil 48oz,Kraft Mac and Cheese Original 7.25oz,0.0112,0.2132,3.895
+Great Value Penne Pasta 16oz,Great Value Spaghetti 16oz,0.0113,0.2058,3.744
+Great Value Chicken Broth 32oz,Great Value Spaghetti 16oz,0.0115,0.2101,3.709
+Great Value Spaghetti 16oz,Great Value Canola Oil 48oz,0.0111,0.2019,3.688
+Great Value Extra Virgin Olive Oil 17oz,Great Value Sugar Granulated 4lb,0.0113,0.2061,3.679
+Great Value Spaghetti 16oz,Great Value Sugar Granulated 4lb,0.011,0.201,3.669
+Great Value Penne Pasta 16oz,Great Value Canola Oil 48oz,0.011,0.2004,3.646
+Great Value Chicken Broth 32oz,Kraft Mac and Cheese Original 7.25oz,0.0108,0.2052,3.623
+Great Value Chicken Broth 32oz,Great Value Sugar Granulated 4lb,0.0112,0.2051,3.621
+Great Value Unsalted Butter 1lb,Philadelphia Original Cream Cheese 8oz,0.0157,0.2426,3.576
+Great Value Chicken Broth 32oz,Hunts Diced Tomatoes 14.5oz,0.0108,0.202,3.565
+Great Value Chicken Broth 32oz,Campbells Tomato Soup 10.75oz,0.0111,0.2019,3.564
+Marketside Shredded Cheddar 8oz,Great Value American Cheese Slices 16oz,0.0157,0.2359,3.524
+Marketside Fresh Mozzarella 8oz,Great Value 2% Reduced Fat Milk 1 Gal,0.0155,0.2371,3.507
+Marketside Shredded Cheddar 8oz,Philadelphia Original Cream Cheese 8oz,0.0151,0.234,3.496
+Great Value Large Eggs 12ct,Marketside Shredded Cheddar 8oz,0.0159,0.2376,3.482
+Marketside Shredded Cheddar 8oz,Great Value 2% Reduced Fat Milk 1 Gal,0.0151,0.2311,3.452
+Great Value American Cheese Slices 16oz,Philadelphia Original Cream Cheese 8oz,0.0148,0.2291,3.45
+Great Value Whole Milk 1 Gal,Marketside Shredded Cheddar 8oz,0.0154,0.2301,3.438
+Great Value Whole Milk 1 Gal,Philadelphia Original Cream Cheese 8oz,0.0149,0.2299,3.435
+Daisy Sour Cream 16oz,Philadelphia Original Cream Cheese 8oz,0.0147,0.2275,3.421
+Great Value 2% Reduced Fat Milk 1 Gal,Philadelphia Original Cream Cheese 8oz,0.0145,0.2238,3.416
+Great Value Large Eggs 12ct,Great Value American Cheese Slices 16oz,0.0154,0.2323,3.405
+Marketside Fresh Mozzarella 8oz,Marketside Shredded Cheddar 8oz,0.0154,0.2301,3.403
+Great Value Unsalted Butter 1lb,Great Value 2% Reduced Fat Milk 1 Gal,0.0151,0.2307,3.401
+Philadelphia Original Cream Cheese 8oz,Great Value Greek Yogurt Plain 32oz,0.014,0.2196,3.394
+Great Value Whole Milk 1 Gal,Great Value Greek Yogurt Plain 32oz,0.0145,0.227,3.392
+Great Value Large Eggs 12ct,Great Value Unsalted Butter 1lb,0.0156,0.2302,3.374
+Great Value American Cheese Slices 16oz,Great Value Greek Yogurt Plain 32oz,0.0142,0.2233,3.363
+Daisy Sour Cream 16oz,Great Value American Cheese Slices 16oz,0.0148,0.2236,3.363
+Marketside Shredded Cheddar 8oz,Great Value Greek Yogurt Plain 32oz,0.0143,0.2246,3.355
+Great Value Whole Milk 1 Gal,Great Value American Cheese Slices 16oz,0.0149,0.224,3.346
+Great Value Large Eggs 12ct,Daisy Sour Cream 16oz,0.0151,0.2265,3.32
+Marketside Fresh Mozzarella 8oz,Daisy Sour Cream 16oz,0.0149,0.2241,3.314
+Tilapia Fillets per lb,Great Value Sliced Bacon 16oz,0.0247,0.2873,3.306
+Great Value Dish Soap Original 24oz,Great Value Trash Bags 13 Gal 50ct,0.0258,0.2954,3.306
+Great Value Large Eggs 12ct,Philadelphia Original Cream Cheese 8oz,0.0146,0.2254,3.304
+Great Value Unsalted Butter 1lb,Marketside Shredded Cheddar 8oz,0.015,0.2238,3.299
+Tide Simply Liquid Laundry Det 46oz,Great Value Trash Bags 13 Gal 50ct,0.0256,0.2936,3.293
+Great Value Unsalted Butter 1lb,Daisy Sour Cream 16oz,0.0148,0.2233,3.292
+Marketside Fresh Mozzarella 8oz,Philadelphia Original Cream Cheese 8oz,0.0144,0.2226,3.292
+Great Value Unsalted Butter 1lb,Marketside Fresh Mozzarella 8oz,0.0151,0.2231,3.289
+Tilapia Fillets per lb,Great Value Thin Sliced Turkey 9oz,0.0239,0.2849,3.278
+Great Value 80/20 Ground Beef 1lb,Pork Loin Chops Boneless per lb,0.0242,0.2828,3.275
+Great Value Paper Towels 6 Double Rolls,Great Value Trash Bags 13 Gal 50ct,0.0245,0.2849,3.267
+Atlantic Salmon Fillet per lb,Chicken Breast Boneless Skinless 3lb,0.0241,0.2821,3.265
+Great Value Whole Milk 1 Gal,Great Value 2% Reduced Fat Milk 1 Gal,0.0143,0.2182,3.26
+Marketside Fresh Mozzarella 8oz,Great Value Greek Yogurt Plain 32oz,0.0141,0.2204,3.26
+Great Value 80/20 Ground Beef 1lb,Great Value Sliced Bacon 16oz,0.0242,0.2809,3.253
+Daisy Sour Cream 16oz,Marketside Shredded Cheddar 8oz,0.0145,0.2178,3.253
+Great Value Unsalted Butter 1lb,Great Value Greek Yogurt Plain 32oz,0.0141,0.2204,3.25
+Great Value Unsalted Butter 1lb,Great Value American Cheese Slices 16oz,0.0146,0.2204,3.249
+Great Value Large Eggs 12ct,Great Value Whole Milk 1 Gal,0.0148,0.2214,3.246
+Great Value 80/20 Ground Beef 1lb,Great Value Thin Sliced Turkey 9oz,0.0234,0.2798,3.241
+Tide Simply Liquid Laundry Det 46oz,Great Value Paper Towels 6 Double Rolls,0.0248,0.2883,3.233
+Quaker Old Fashioned Oats 42oz,Great Value Honey Nut Toasted Oats 27oz,0.0308,0.3178,3.232
+Great Value 80/20 Ground Beef 1lb,Chicken Breast Boneless Skinless 3lb,0.0238,0.279,3.231
+Great Value American Cheese Slices 16oz,Great Value 2% Reduced Fat Milk 1 Gal,0.0141,0.2146,3.231
+Daisy Sour Cream 16oz,Great Value Whole Milk 1 Gal,0.0144,0.2162,3.23
+Marketside Fresh Mozzarella 8oz,Great Value American Cheese Slices 16oz,0.0145,0.218,3.224
+Atlantic Salmon Fillet per lb,Great Value Thin Sliced Turkey 9oz,0.0233,0.2786,3.224
+Pork Loin Chops Boneless per lb,Great Value Thin Sliced Turkey 9oz,0.0231,0.2757,3.224
+Great Value Toilet Paper 12 Rolls,Great Value Trash Bags 13 Gal 50ct,0.025,0.2867,3.22
+Tilapia Fillets per lb,Great Value 80/20 Ground Beef 1lb,0.0242,0.2798,3.22
+Great Value Apple Juice 64oz,Lipton Iced Tea Mix 3qt,0.0322,0.3273,3.215
+Great Value Unsalted Butter 1lb,Great Value Whole Milk 1 Gal,0.0146,0.2179,3.212
+Daisy Sour Cream 16oz,Great Value Greek Yogurt Plain 32oz,0.0136,0.2134,3.21
+Great Value Dish Soap Original 24oz,Great Value Paper Towels 6 Double Rolls,0.0247,0.2868,3.209
+Great Value Dish Soap Original 24oz,Great Value Toilet Paper 12 Rolls,0.0255,0.2861,3.202
+Pork Loin Chops Boneless per lb,Chicken Breast Boneless Skinless 3lb,0.0234,0.2737,3.2
+Atlantic Salmon Fillet per lb,Pork Loin Chops Boneless per lb,0.0236,0.2763,3.198
+Glad ForceFlex Trash Bags 30 Gal 25ct,Great Value Trash Bags 13 Gal 50ct,0.0246,0.2824,3.187
+Amy's Organic Burrito Bean Cheese,Great Value Frozen French Fries 32oz,0.0318,0.3205,3.185
+Great Value Large Eggs 12ct,Marketside Fresh Mozzarella 8oz,0.0147,0.2168,3.178
+Great Value Granola Bars Oats Honey 8ct,Great Value Honey Nut Toasted Oats 27oz,0.0298,0.308,3.178
+Atlantic Salmon Fillet per lb,Great Value Sliced Bacon 16oz,0.0236,0.2745,3.177
+Glad ForceFlex Trash Bags 30 Gal 25ct,Great Value Paper Towels 6 Double Rolls,0.0242,0.2816,3.177
+Great Value Toilet Paper 12 Rolls,Great Value Paper Towels 6 Double Rolls,0.0243,0.2828,3.176
+Tilapia Fillets per lb,Atlantic Salmon Fillet per lb,0.0238,0.2759,3.175
+Chicken Breast Boneless Skinless 3lb,Great Value Thin Sliced Turkey 9oz,0.0227,0.271,3.175
+Great Value Granola Bars Oats Honey 8ct,Oreo Original Cookies 14.3oz,0.0298,0.3077,3.174
+Great Value Dish Soap Original 24oz,Tide Simply Liquid Laundry Det 46oz,0.0253,0.2836,3.174
+Oreo Original Cookies 14.3oz,Ritz Original Crackers 13.7oz,0.0301,0.3106,3.172
+Quaker Old Fashioned Oats 42oz,Oreo Original Cookies 14.3oz,0.0302,0.3117,3.171
+Bounty Select-A-Size Paper Towels 8 Rolls,Great Value Trash Bags 13 Gal 50ct,0.0247,0.283,3.169
+Great Value Dish Soap Original 24oz,Bounty Select-A-Size Paper Towels 8 Rolls,0.0253,0.2831,3.169
+Great Value Frozen French Fries 32oz,Stouffers Lasagna with Meat Sauce 10oz,0.0316,0.3181,3.166
+Oreo Original Cookies 14.3oz,Great Value Honey Nut Toasted Oats 27oz,0.0297,0.3066,3.166
+Tilapia Fillets per lb,Pork Loin Chops Boneless per lb,0.0235,0.2751,3.165
+Great Value Dish Soap Original 24oz,Glad ForceFlex Trash Bags 30 Gal 25ct,0.0251,0.2827,3.164
+Daisy Sour Cream 16oz,Great Value 2% Reduced Fat Milk 1 Gal,0.0138,0.2101,3.161
+Tilapia Fillets per lb,Chicken Breast Boneless Skinless 3lb,0.0234,0.2743,3.157
+Glad ForceFlex Trash Bags 30 Gal 25ct,Great Value Toilet Paper 12 Rolls,0.0249,0.281,3.155
+Great Value Apple Juice 64oz,Great Value 100% Orange Juice 52oz,0.0326,0.3213,3.155
+Great Value Large Eggs 12ct,Great Value Greek Yogurt Plain 32oz,0.0137,0.2151,3.152
+Oreo Original Cookies 14.3oz,Lays Classic Potato Chips 8oz,0.0298,0.3077,3.149
+Great Value Purified Water 40pk 16.9oz,Lipton Iced Tea Mix 3qt,0.031,0.3158,3.147
+Great Value Large Eggs 12ct,Great Value 2% Reduced Fat Milk 1 Gal,0.0141,0.2146,3.145
+Glad ForceFlex Trash Bags 30 Gal 25ct,Bounty Select-A-Size Paper Towels 8 Rolls,0.0249,0.2807,3.142
+Bounty Select-A-Size Paper Towels 8 Rolls,Great Value Paper Towels 6 Double Rolls,0.0241,0.28,3.135
+Glad ForceFlex Trash Bags 30 Gal 25ct,Tide Simply Liquid Laundry Det 46oz,0.0248,0.2795,3.134
+Great Value Sliced Bacon 16oz,Great Value Thin Sliced Turkey 9oz,0.0226,0.2694,3.133
+Great Value 2% Reduced Fat Milk 1 Gal,Great Value Greek Yogurt Plain 32oz,0.0131,0.2051,3.131
+Great Value 100% Orange Juice 52oz,Folgers Classic Roast Coffee 30.5oz,0.032,0.3169,3.126
+Great Value 100% Orange Juice 52oz,Lipton Iced Tea Mix 3qt,0.0311,0.3166,3.123
+Lays Classic Potato Chips 8oz,Ritz Original Crackers 13.7oz,0.0298,0.3053,3.118
+Quaker Old Fashioned Oats 42oz,Lays Classic Potato Chips 8oz,0.0299,0.3064,3.117
+Quaker Old Fashioned Oats 42oz,Ritz Original Crackers 13.7oz,0.03,0.3065,3.117
+Great Value Frozen Broccoli Florets 12oz,Great Value Frozen French Fries 32oz,0.0319,0.3208,3.116
+Great Value Granola Bars Oats Honey 8ct,Lays Classic Potato Chips 8oz,0.0294,0.3037,3.109
+Great Value 80/20 Ground Beef 1lb,Atlantic Salmon Fillet per lb,0.0232,0.2682,3.104
+Great Value Sliced Bacon 16oz,Chicken Breast Boneless Skinless 3lb,0.0228,0.2669,3.104
+Great Value Frozen Broccoli Florets 12oz,Stouffers Lasagna with Meat Sauce 10oz,0.0321,0.3192,3.101
+Lays Classic Potato Chips 8oz,Great Value Honey Nut Toasted Oats 27oz,0.0293,0.3026,3.097
+Great Value Frozen French Fries 32oz,Great Value Frozen Pizza Pepperoni 12in,0.0305,0.3072,3.085
+Birds Eye Steamfresh Mixed Veggies 10oz,Great Value Frozen French Fries 32oz,0.0319,0.3216,3.082
+Great Value Apple Juice 64oz,Great Value Purified Water 40pk 16.9oz,0.0314,0.3133,3.076
+Marketside Fresh Mozzarella 8oz,Great Value Whole Milk 1 Gal,0.0139,0.2076,3.071
+Bounty Select-A-Size Paper Towels 8 Rolls,Tide Simply Liquid Laundry Det 46oz,0.0244,0.2739,3.066
+Great Value Granola Bars Oats Honey 8ct,Ritz Original Crackers 13.7oz,0.0291,0.3001,3.065
+Ritz Original Crackers 13.7oz,Great Value Honey Nut Toasted Oats 27oz,0.029,0.299,3.054
+Tide Simply Liquid Laundry Det 46oz,Great Value Toilet Paper 12 Rolls,0.0242,0.2719,3.05
+Tropicana Orange Juice No Pulp 52oz,Lipton Iced Tea Mix 3qt,0.03,0.3056,3.045
+Quaker Old Fashioned Oats 42oz,Great Value Granola Bars Oats Honey 8ct,0.029,0.2993,3.044
+Great Value Apple Juice 64oz,Tropicana Orange Juice No Pulp 52oz,0.031,0.3091,3.035
+Birds Eye Steamfresh Mixed Veggies 10oz,Stouffers Lasagna with Meat Sauce 10oz,0.0318,0.3165,3.034
+Great Value 100% Orange Juice 52oz,Tropicana Orange Juice No Pulp 52oz,0.0308,0.307,3.028
+Great Value Frozen Broccoli Florets 12oz,Birds Eye Steamfresh Mixed Veggies 10oz,0.0325,0.3157,3.025
+Birds Eye Steamfresh Mixed Veggies 10oz,Great Value Frozen Pizza Pepperoni 12in,0.0313,0.3146,3.016
+Folgers Classic Roast Coffee 30.5oz,Great Value Purified Water 40pk 16.9oz,0.0304,0.303,3.001
+Great Value 100% Orange Juice 52oz,Great Value Purified Water 40pk 16.9oz,0.0305,0.3041,2.999
+Great Value Purified Water 40pk 16.9oz,Tropicana Orange Juice No Pulp 52oz,0.0301,0.3001,2.991
+Bounty Select-A-Size Paper Towels 8 Rolls,Great Value Toilet Paper 12 Rolls,0.0238,0.2672,2.991
+Amy's Organic Burrito Bean Cheese,Great Value Frozen Pizza Pepperoni 12in,0.03,0.3008,2.99
+Great Value Apple Juice 64oz,Folgers Classic Roast Coffee 30.5oz,0.0307,0.3041,2.986
+Folgers Classic Roast Coffee 30.5oz,Lipton Iced Tea Mix 3qt,0.0296,0.3008,2.979
+Amy's Organic Burrito Bean Cheese,Stouffers Lasagna with Meat Sauce 10oz,0.0301,0.2997,2.979
+Great Value Sliced Bacon 16oz,Pork Loin Chops Boneless per lb,0.0219,0.2562,2.979
+Birds Eye Steamfresh Mixed Veggies 10oz,Amy's Organic Burrito Bean Cheese,0.0312,0.3104,2.975
+Great Value Frozen Broccoli Florets 12oz,Great Value Frozen Pizza Pepperoni 12in,0.0304,0.3056,2.969
+Great Value Frozen Pizza Pepperoni 12in,Stouffers Lasagna with Meat Sauce 10oz,0.0297,0.2982,2.968
+Great Value Frozen Broccoli Florets 12oz,Amy's Organic Burrito Bean Cheese,0.0305,0.303,2.944
+Folgers Classic Roast Coffee 30.5oz,Tropicana Orange Juice No Pulp 52oz,0.0296,0.2949,2.921
+Natures Own Honey Wheat Bread 20oz,Marketside Blueberry Muffins 4ct,0.0393,0.3415,2.881
+Great Value White Sandwich Bread 20oz,Natures Own Honey Wheat Bread 20oz,0.0398,0.3397,2.866
+Great Value White Sandwich Bread 20oz,Marketside Blueberry Muffins 4ct,0.0385,0.3344,2.856
+Marketside Butter Croissants 4ct,Marketside Blueberry Muffins 4ct,0.0389,0.3381,2.841
+Marketside Butter Croissants 4ct,Natures Own Honey Wheat Bread 20oz,0.04,0.3376,2.837
+Marketside Butter Croissants 4ct,Great Value White Sandwich Bread 20oz,0.0395,0.337,2.832
+Marketside Sourdough Loaf,Marketside Blueberry Muffins 4ct,0.0382,0.3323,2.824
+Marketside Butter Croissants 4ct,Marketside Sourdough Loaf,0.0394,0.3351,2.816
+Great Value White Sandwich Bread 20oz,Marketside Sourdough Loaf,0.0385,0.3289,2.795
+Natures Own Honey Wheat Bread 20oz,Marketside Sourdough Loaf,0.0383,0.3252,2.744

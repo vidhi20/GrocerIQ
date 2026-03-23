@@ -154,36 +154,7 @@ Customers are then labelled into 7 segments based on score combinations:
 
 > Jordon, J. et al. (2022). *Synthetic Data — what, why and how?* Royal Statistical Society / Alan Turing Institute.
 
----
 
-## 🚀 Getting Started
-
-### Option 1 — View the live app
-Visit **[groceriq.streamlit.app](https://groceriq.streamlit.app)** — no setup needed.
-
-### Option 2 — Run locally
-
-**Prerequisites:** Python 3.10 or higher
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/smartcart-rfm.git
-cd smartcart-rfm
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Run the app
-streamlit run app.py
-```
-
-The app opens at `http://localhost:8501`
-
-### Option 3 — Run the full pipeline in Google Colab
-
-Open the notebooks in order (01 through 09) in [Google Colab](https://colab.research.google.com). No local Python installation required. All output CSV files download automatically at the end.
-
----
 
 ## 🛠 Tech Stack
 

@@ -9,6 +9,14 @@
 
 ---
 
+## 🌐 Live Demo
+
+👉 **[Open the dashboard](https://groceriq-nemepcjw4avochcjvh8e2m.streamlit.app/)**
+
+The app sleeps when idle. If you see a wake-up screen, select the button and give it about a minute. The dashboard still uses the project's earlier name, SmartCart.
+
+---
+
 ## 📌 Problem Statement
 
 Grocery retailers like Walmart serve millions of customers with vastly different shopping behaviours. Without customer segmentation, marketing campaigns are generic and ineffective. This project answers three business questions:

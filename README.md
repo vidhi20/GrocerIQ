@@ -1,20 +1,11 @@
-# GrocerIQ
-
 # 🛒 GrocerIQ — Walmart Grocery RFM Analytics & Recommendation System
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-FF4B4B?logo=streamlit)
 ![Plotly](https://img.shields.io/badge/Plotly-5.x-3F4F75?logo=plotly)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-F7931E?logo=scikit-learn)
-![License](https://img.shields.io/badge/License-MIT-green)
 
-> An end-to-end data science project that segments Walmart grocery customers using RFM analysis and K-Means clustering, then delivers personalised product recommendations and recipe suggestions based on purchase history.
-
----
-
-## 🌐 Live Demo
-
-👉 **[groceriq.streamlit.app](https://groceriq.streamlit.app)**
+> An end-to-end data science project that segments synthetic Walmart-style grocery customers using RFM analysis and K-Means clustering, then delivers personalised product recommendations and recipe suggestions based on purchase history.
 
 ---
 
@@ -45,28 +36,13 @@ Grocery retailers like Walmart serve millions of customers with vastly different
 ## 🗂 Project Structure
 
 ```
-smartcart-rfm/
-│
+GrocerIQ/
 ├── app.py                    # Main Streamlit dashboard
 ├── requirements.txt          # Python dependencies
-│
-├── data/
-│   └── processed/
-│       ├── rfm_segments.csv          # RFM scores + segment labels per customer
-│       ├── recommendations.csv       # Top 5 product recommendations per customer
-│       ├── recipe_matches.csv        # Top 3 recipe matches per customer
-│       └── association_rules.csv     # Frequently bought together pairs
-│
-└── notebooks/
-    ├── 01_data_generation.ipynb      # Generate synthetic Walmart dataset
-    ├── 02_data_cleaning.ipynb        # Clean and prepare data
-    ├── 03_rfm_scoring.ipynb          # Calculate R, F, M scores
-    ├── 04_kmeans_clustering.ipynb    # K-Means with elbow + silhouette
-    ├── 05_visualisations.ipynb       # RFM charts for dashboard
-    ├── 06_basket_analysis.ipynb      # Association rules
-    ├── 07_recommendations.ipynb      # Collaborative filtering
-    ├── 08_recipe_matching.ipynb      # TF-IDF recipe engine
-    └── 09_deployment.ipynb           # Write app.py + deploy to Streamlit
+├── rfm_segments.csv          # RFM scores + segment labels per customer
+├── recommendations.csv       # Top 5 product recommendations per customer
+├── recipe_matches.csv        # Top 3 recipe matches per customer
+└── association_rules.csv     # Frequently bought together pairs
 ```
 
 ---

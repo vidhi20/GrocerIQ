@@ -68,7 +68,7 @@ GrocerIQ/
 
 ### 👥 Segments
 - Full summary table with customer counts, average R/F/M, and total revenue per segment
-- Colour-coded marketing strategy cards for all 7 segments
+- Colour-coded marketing strategy cards for all 8 segments
 
 ### 🔍 Customers
 - Searchable, filterable, sortable customer table
@@ -97,7 +97,7 @@ Each customer is scored 1–5 on three dimensions using quantile-based scoring:
 | **Frequency** | Number of unique orders | Higher = better (score 5) |
 | **Monetary** | Total spend across all orders | Higher = better (score 5) |
 
-Customers are then labelled into 7 segments based on score combinations:
+Customers are then labelled into 8 segments based on score combinations. The main rules are below, and the scored output also includes a Cannot Lose segment:
 
 | Segment | Criteria | Strategy |
 |---|---|---|
@@ -155,8 +155,8 @@ Customers are then labelled into 7 segments based on score combinations:
 
 ## 📈 Key Results
 
-- **50,000 customers** segmented across 7 RFM groups
-- **Champions (15%)** generate significantly higher average spend than Lost customers
+- **50,000 customers** segmented across 8 RFM groups
+- **Champions (27%)** generate significantly higher average spend than Lost customers
 - **K=4 clusters** confirmed by both elbow curve and silhouette score
 - **Collaborative filtering** generates top-5 recommendations for 10,000 customers
 - **Recipe engine** matches customer baskets to 230K+ recipes in under 2 minutes
